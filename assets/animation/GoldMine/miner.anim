@@ -1,0 +1,115 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "miner",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "arm3": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -17
+            },
+            {
+              "frame": 0.5,
+              "value": 5
+            },
+            {
+              "frame": 1,
+              "value": -17
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 87
+            },
+            {
+              "frame": 0.5,
+              "value": 75
+            },
+            {
+              "frame": 1,
+              "value": 87
+            }
+          ]
+        }
+      },
+      "arm1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 12
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 12
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 110
+            },
+            {
+              "frame": 0.5,
+              "value": 100
+            },
+            {
+              "frame": 1,
+              "value": 110
+            }
+          ]
+        }
+      },
+      "head": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 161
+            },
+            {
+              "frame": 0.5,
+              "value": 149
+            },
+            {
+              "frame": 1,
+              "value": 161
+            }
+          ]
+        }
+      },
+      "body": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 85
+            },
+            {
+              "frame": 0.5,
+              "value": 80
+            },
+            {
+              "frame": 1,
+              "value": 85
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

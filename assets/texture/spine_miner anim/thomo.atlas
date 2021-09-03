@@ -1,0 +1,76 @@
+
+thomo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 620, 160
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 620, 123
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 686, 160
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 173, 98
+  size: 196, 136
+  orig: 196, 136
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 173, 12
+  size: 144, 84
+  orig: 144, 84
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 515, 122
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 371, 119
+  size: 142, 115
+  orig: 142, 115
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 169, 232
+  orig: 169, 232
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 319, 17
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 752, 192
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1

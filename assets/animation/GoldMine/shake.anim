@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shake",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 100,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 725
+        },
+        {
+          "frame": 0.05,
+          "value": 735
+        },
+        {
+          "frame": 0.1,
+          "value": 725
+        },
+        {
+          "frame": 0.15,
+          "value": 735
+        },
+        {
+          "frame": 0.2,
+          "value": 725
+        },
+        {
+          "frame": 0.25,
+          "value": 730
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Blockdown",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 704
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 632
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 652
+        },
+        {
+          "frame": 0.5,
+          "value": 632
+        }
+      ]
+    }
+  },
+  "events": []
+}
