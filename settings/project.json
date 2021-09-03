@@ -81,8 +81,8 @@
       false
     ]
   ],
-  "design-resolution-height": 640,
-  "design-resolution-width": 960,
+  "design-resolution-height": 720,
+  "design-resolution-width": 1280,
   "excluded-modules": [
     "Geom Utils",
     "3D",
@@ -94,32 +94,31 @@
   "fit-height": true,
   "fit-width": true,
   "group-list": [
-    "default",
-    "rabbit",
-    "platform",
-    "snailBlock",
-    "coin",
-    "enemy",
-    "water",
-    "mushroom"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
     "width": 960
   },
-  "start-scene": "current",
-  "use-customize-simulator": false,
+  "use-customize-simulator": true,
   "use-project-simulator-setting": false,
   "last-module-event-record-time": 1630626992270,
   "assets-sort-type": "name",
   "facebook": {
-    "enable": false,
     "appID": "",
-    "live": {
+    "audience": {
       "enable": false
     },
-    "audience": {
+    "enable": false,
+    "live": {
       "enable": false
     }
   },

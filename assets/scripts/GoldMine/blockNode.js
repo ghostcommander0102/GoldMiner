@@ -33,7 +33,7 @@ cc.Class({
 
     start() {
         var self = this;
-        this.node.on("mousedown", function (event) {
+        this.node.on("touchend", function (event) {
             if (self.digmoveflg == 0)
                 self.mousePos = cc.v2(event.getLocation().x, event.getLocation().y);
         });

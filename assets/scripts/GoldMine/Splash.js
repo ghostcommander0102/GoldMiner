@@ -18,6 +18,7 @@ cc.Class({
 
     // use this for initialization
     onLoad: function () {
+        cc.view.enableAutoFullScreen(true);
         this.loadingBar.progress = 0;
         this.schedule(function(){
             if(this.loadingBar.progress >= 1){
